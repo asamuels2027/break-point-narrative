@@ -1,0 +1,550 @@
+.word10{
+position: absolute;
+width: 69.67471143756558vw;
+height:  8.1437125748503vh;
+left: 465px;
+top: 37px;
+font-family: "catshandwriting", sans-serif;
+font-size: 80px;
+text-align: center;
+font-weight: lighter;
+color: #000000;
+overflow:  visible;
+ 
+}
+
+.word20{
+position: absolute;
+width: 672px;
+height: 138px;
+left: 459px;
+top: 94px;
+font-family: "Red Hat Mono", sans-serif;
+font-style: italic;
+font-weight: normal;
+font-size: 120px;
+line-height: 159px;
+text-align: center;
+
+color: #000000;
+
+}
+
+.word30{
+position: absolute;
+width: 864px;
+height: 68px;
+left: 370px;
+top: 210px;
+font-family: "catshandwriting", sans-serif;
+font-size: 70px;
+text-align: center;
+font-weight: lighter;
+color: #000000;
+overflow:  visible;
+ 
+}
+
+.word40{
+position: absolute;
+width: 800px;
+height: 68px;
+left: 390px;
+top: 277px;
+font-family: "catshandwriting", sans-serif;
+font-size: 70px;
+text-align: center;
+font-weight: lighter;
+color: #000000;
+overflow:  visible;
+ 
+}
+
+ .word05{
+position: absolute;
+width: 664px;
+height: 68px;
+left: 455px;
+top: 340px;
+font-family: "catshandwriting", sans-serif;
+font-size: 70px;
+text-align: center;
+font-weight: lighter;
+color: #000000;
+overflow:  visible;
+ 
+}
+
+
+.word06{
+position: absolute;
+width: 664px;
+height: 68px;
+left: 465px;
+top: 417px;
+font-family: "catshandwriting", sans-serif;
+font-size: 60px;
+text-align: center;
+font-weight: lighter;
+color: #000000;
+overflow:  visible;
+ 
+}
+
+.example {
+  padding: 20px;
+  color: white;
+}
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+ 
+  div.book{
+position: absolute;
+top: 70%;
+width: 100%;
+padding: 10px;
+left: 0px;
+
+}
+  
+ div.word1{
+position: absolute;
+width: 600px;
+height: 300px;
+left: -50px;
+top: 437px;
+font-family: "catshandwriting", sans-serif;
+font-size: 40px;
+text-align: center;
+font-weight: lighter;
+color: #000000;
+overflow:  visible;
+ 
+}
+
+  .word2{
+    display:none;
+  }
+  
+  .word3{
+    display:none;
+  }
+  
+  
+  .word4{
+    display:none;
+  }
+  
+  .word5{
+    display:none;
+  }
+  
+  .word6{
+    display:none;
+  }
+  
+  .word7{
+    display:none;
+  }
+  
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+ 
+  div.book{
+      position: absolute;
+      top: 65%;
+      width: 100%;
+      left: 0%;
+}
+  
+ div.word1{
+position: absolute;
+width: 768px;
+height: 300px;
+left: -25px;
+top: 350px;
+font-family: "catshandwriting", sans-serif;
+font-size: 45px;
+text-align: center;
+font-weight: lighter;
+color: #000000;
+overflow:  visible;
+ 
+}
+  
+ div.word2{
+position: absolute;
+width: 768px;
+height: 138px;
+left: -25px;
+top: 310px;
+font-family: "catshandwriting", sans-serif;
+font-weight: bold;
+font-size: 55px;
+line-height: 159px;
+text-align: center;
+
+color: #000000;
+    
+  }
+
+  div.word3{
+    display: none;
+ 
+}
+  
+  
+  .word4{
+    display:none;
+  }
+  
+  
+  .word5{
+    display:none;
+  }
+  
+  
+  .word6{
+    display:none;
+  }
+  
+  .word7{
+    display:none;
+  }
+  
+  
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+ 
+  div.book{
+    position: absolute;
+    top: 58%;
+    width: 100%;
+    left: 0%;
+
+
+}
+  
+   div.word1{
+position: absolute;
+width: 992px;
+height: 300px;
+left: -60px;
+top: 350px;
+font-family: "catshandwriting", sans-serif;
+font-size: 45px;
+text-align: center;
+font-weight: lighter;
+color: #000000;
+overflow:  visible;
+ 
+}
+  
+ div.word2{
+position: absolute;
+width: 992px;
+height: 138px;
+left: -60px;
+top: 300px;
+font-family: "catshandwriting", sans-serif;
+font-weight: bold;
+font-size: 55px;
+line-height: 159px;
+text-align: center;
+
+color: #000000;
+    
+  }
+  
+
+  div.word3{
+position: absolute;
+width: 992px;
+height: 300px;
+left: -60px;
+top: 450px;
+font-family: "catshandwriting", sans-serif;
+font-size: 20px;
+text-align: center;
+font-weight: lighter;
+color: #000000;
+overflow:  visible;
+display: block;
+ 
+}
+  
+  
+  div.word4{
+display:none;
+  }
+  
+  
+  .word5{
+    display:none;
+  }
+  
+  
+  .word6{
+    display:none;
+  }
+ 
+  .word7{
+    display:none;
+  }
+  
+}
+  
+  
+  
+
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  
+  div.book{
+position: absolute;
+top: 53%;
+width: 100%;
+left: 0%;
+
+
+}
+  
+  
+   div.word1{
+position: absolute;
+width: 992px;
+height: 300px;
+left: 0px;
+top: 330px;
+font-family: "catshandwriting", sans-serif;
+font-size: 45px;
+text-align: center;
+font-weight: lighter;
+color: #000000;
+overflow:  visible;
+ 
+}
+  
+ div.word2{
+position: absolute;
+width: 992px;
+height: 138px;
+left: 0px;
+top: 270px;
+font-family: "catshandwriting", sans-serif;
+font-weight: bold;
+font-size: 55px;
+line-height: 159px;
+text-align: center;
+
+color: #000000;
+    
+  }
+  
+
+  div.word3{
+position: absolute;
+width: 992px;
+height: 300px;
+left: 0px;
+top: 420px;
+font-family: "catshandwriting", sans-serif;
+font-size: 20px;
+text-align: center;
+font-weight: lighter;
+color: #000000;
+overflow:  visible;
+display: block;
+ 
+}
+  
+   div.word4{
+position: absolute;
+width: 992px;
+height: 300px;
+left: 0px;
+top: 460px;
+font-family: "catshandwriting", sans-serif;
+font-size: 20px;
+text-align: center;
+font-weight: lighter;
+color: #000000;
+overflow:  visible;
+display: block;
+  }
+  
+  
+  .word5{
+    display:none;
+  }
+  
+  
+  .word6{
+    display:none;
+  }
+  
+  .word7{
+    display:none;
+  }
+  
+} 
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  div.book{
+position: absolute;
+top: 40%;
+width: 100%;
+left: 10%;
+
+}
+  
+     div.word1{
+position: absolute;
+width: 992px;
+height: 300px;
+left: 300px;
+top: 210px;
+font-family: "catshandwriting", sans-serif;
+font-size: 45px;
+text-align: center;
+font-weight: lighter;
+color: #000000;
+overflow:  visible;
+ 
+}
+  
+ div.word2{
+position: absolute;
+width: 992px;
+height: 138px;
+left: 300px;
+top: 160px;
+font-family: "catshandwriting", sans-serif;
+font-weight: bold;
+font-size: 55px;
+line-height: 159px;
+text-align: center;
+
+color: #000000;
+    
+  }
+  
+
+  div.word3{
+position: absolute;
+width: 992px;
+height: 300px;
+left: 300px;
+top: 310px;
+font-family: "catshandwriting", sans-serif;
+font-size: 20px;
+text-align: center;
+font-weight: lighter;
+color: #000000;
+overflow:  visible;
+display: block;
+ 
+}
+  
+   div.word4{
+position: absolute;
+width: 992px;
+height: 300px;
+left: 300px;
+top: 350px;
+font-family: "catshandwriting", sans-serif;
+font-size: 20px;
+text-align: center;
+font-weight: lighter;
+color: #000000;
+overflow:  visible;
+display: block;
+  }
+  
+  
+  div.word5{
+position: absolute;
+width: 992px;
+height: 300px;
+left: 300px;
+top: 390px;
+font-family: "catshandwriting", sans-serif;
+font-size: 20px;
+text-align: center;
+font-weight: lighter;
+color: #000000;
+overflow:  visible;
+display: block;
+  }
+  
+  
+  div.word6{
+    position: absolute;
+width: 992px;
+height: 300px;
+left: 300px;
+top: 430px;
+font-family: "catshandwriting", sans-serif;
+font-size: 20px;
+text-align: center;
+font-weight: lighter;
+color: #000000;
+overflow:  visible;
+    display: block;
+  }
+  
+  div.word7{
+    position: absolute;
+width: 992px;
+height: 300px;
+left: 650px;
+top: 610px;
+font-family: "catshandwriting", sans-serif;
+font-size: 15px;
+text-align: center;
+font-weight: lighter;
+color: #000000;
+overflow:  visible;
+    display: block;
+  }
+  
+}
+
+
+/* a minimalist set of CSS resets */
+
+/* default to border-box */
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+/* adjust typography defaults */
+body {
+  margin: 1rem;
+  font-family: sans-serif;
+  line-height: 1.5;
+  background-size: cover;
+  background-repeat:no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-image:url("https://cdn.glitch.global/7783e862-4813-4888-9c3d-73ea3de3302f/AdobeStock_351487732.jpeg?v=1646357154161");
+
+}
+
+/* images and videos max out at full width */
+img,
+video {
+  height: auto;
+  max-width: 100%;
+}
